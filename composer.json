@@ -1,0 +1,26 @@
+{
+    "name": "pablomurad/indiechecker",
+    "description": "Finds every microformat, rel and IndieWeb endpoint on a web page.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pablo Murad",
+            "email": "pablo@pablomurad.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "ext-mbstring": "*",
+        "mf2/mf2": "^0.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Indiechecker\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}

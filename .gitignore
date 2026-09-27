@@ -1,0 +1,10 @@
+/vendor/
+/.claude/
+/.playwright-mcp/
+
+.env
+*.log
+
+.DS_Store
+Thumbs.db
+desktop.ini
