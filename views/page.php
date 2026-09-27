@@ -75,8 +75,8 @@ $pasted = $html !== null;
     </main>
 
     <footer class="site-footer">
-        <p class="view"><a href="?format=json">JSON API <small>add &amp;format=json to any check</small></a></p>
-        <p>Parsing by <a href="https://github.com/microformats/php-mf2">php-mf2</a>. Vocabularies from <a href="https://microformats.org/wiki/Main_Page">microformats.org</a>.</p>
+        <p>Vocabularies from <a href="https://microformats.org/wiki/Main_Page">microformats.org</a>.</p>
+        <p>dev pablo murad 2026</p>
     </footer>
 </div>
 </body>
